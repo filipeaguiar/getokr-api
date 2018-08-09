@@ -8,10 +8,10 @@ const
 module.exports = (companies, oauthClients) => (
   [
     new User({
-      username: 'filipe.cavalcanti@ebserh.gov.br',
-      password: bcrypt.hashSync('acidrain', bcrypt.genSaltSync(8), null),
-      firstName: 'Filipe',
-      lastName: 'Aguiar',
+      username: 'admin@ebserh.gov.br',
+      password: bcrypt.hashSync('123456', bcrypt.genSaltSync(8), null),
+      firstName: 'admin',
+      lastName: 'admin',
       isAdministrator: true,
       insertDate: new Date(),
       updateDate: new Date(),

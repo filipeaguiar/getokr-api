@@ -1502,3 +1502,6 @@ Server listening at http://localhost:3000
 [0mGET /api/objective/planning/5b630b66ff3aadc243e7b29a?deactivate=false&planning=5b630b66ff3aadc243e7b29a [32m200 [0m21.195 ms - 893[0m
 [0mGET /api/company/5b608483eb60935c7690e367 [32m200 [0m23.896 ms - 224[0m
 [0mGET /api/objective/5b689e3abc03d3483cc24e6b [32m200 [0m19.398 ms - 1341[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server listening at http://localhost:3000
