@@ -48,6 +48,9 @@ const KeyResultSchema = new Schema({
         type: Boolean,
         default: true
     },
+    calc: {
+	type: String
+    },
     insertDate: {
         type: Date
     },

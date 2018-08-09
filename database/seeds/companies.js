@@ -8,19 +8,19 @@ module.exports = () => (
 
     [
         new Company({
-            fantasyName: 'FCamara',
+            fantasyName: 'SGPTI',
             plan: {
                 name: 'Business'
             },
-            phone: '(11) 3158-1049',
+            phone: '',
             isActive: true
         }),
         new Company({
-            fantasyName: 'LinkApi',
+            fantasyName: 'Superintendencia',
             plan: {
                 name: 'Business'
             },
-            phone: '(11) 3158-1042',
+            phone: '',
             isActive: true
         })
     ]
